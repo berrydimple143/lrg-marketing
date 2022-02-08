@@ -1,0 +1,1 @@
+<div id="mws-footer">Copyright LRG-ARN 2021. All Rights Reserved.</div>
